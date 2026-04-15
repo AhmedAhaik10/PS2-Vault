@@ -12,7 +12,6 @@ This project uses the IGDB API to collect PS2 game metadata, processes the data 
 - 🔌 Build an automated ETL-style workflow using real API data
 - ☁️ Store and refresh game data in a lightweight cloud-based repository
 - 📊 Design an interactive Power BI dashboard for exploration and storytelling
-- 🏆 Create a portfolio project that is more memorable than traditional sales or finance dashboards
 
 ---
 
