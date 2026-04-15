@@ -101,8 +101,7 @@ Some quick insights from the current dataset:
 
 ## 🖼️ Screenshot
 
-![PS2 Vault Dashboard](./assets/DASHBOARD.jpg)
-
+![PS2 Vault Dashboard](./assets/DASHBOARD.png)
 ## ⚙️ N8N Pipeline
 ![N8N Workflow](./assets/N8N_WORKFLOW.png)
 ---
